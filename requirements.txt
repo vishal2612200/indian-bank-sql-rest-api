@@ -1,0 +1,7 @@
+django
+djangorestframework
+djangorestframework-jwt
+psycopg2
+dj-database-url
+gunicorn
+django-cors-headers
